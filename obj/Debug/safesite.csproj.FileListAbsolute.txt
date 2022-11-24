@@ -1,0 +1,16 @@
+C:\Users\Armin\Desktop\Project\safesite\bin\Debug\safesite.exe.config
+C:\Users\Armin\Desktop\Project\safesite\bin\Debug\safesite.exe
+C:\Users\Armin\Desktop\Project\safesite\bin\Debug\safesite.pdb
+C:\Users\Armin\Desktop\Project\safesite\obj\Debug\safesite.csproj.AssemblyReference.cache
+C:\Users\Armin\Desktop\Project\safesite\obj\Debug\safesite.csproj.SuggestedBindingRedirects.cache
+C:\Users\Armin\Desktop\Project\safesite\obj\Debug\safesite.csproj.CoreCompileInputs.cache
+C:\Users\Armin\Desktop\Project\safesite\obj\Debug\safesite.exe
+C:\Users\Armin\Desktop\Project\safesite\obj\Debug\safesite.pdb
+C:\Users\Armin\Desktop\Project\nexttostatichtml\bin\Debug\safesite.exe.config
+C:\Users\Armin\Desktop\Project\nexttostatichtml\bin\Debug\safesite.exe
+C:\Users\Armin\Desktop\Project\nexttostatichtml\bin\Debug\safesite.pdb
+C:\Users\Armin\Desktop\Project\nexttostatichtml\obj\Debug\safesite.csproj.AssemblyReference.cache
+C:\Users\Armin\Desktop\Project\nexttostatichtml\obj\Debug\safesite.csproj.SuggestedBindingRedirects.cache
+C:\Users\Armin\Desktop\Project\nexttostatichtml\obj\Debug\safesite.csproj.CoreCompileInputs.cache
+C:\Users\Armin\Desktop\Project\nexttostatichtml\obj\Debug\safesite.exe
+C:\Users\Armin\Desktop\Project\nexttostatichtml\obj\Debug\safesite.pdb
